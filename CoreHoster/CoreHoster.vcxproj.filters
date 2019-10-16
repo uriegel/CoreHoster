@@ -18,9 +18,12 @@
     <ClCompile Include="CoreHoster.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="coreclrhost.h">
+    <ClInclude Include="CoreHoster.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
